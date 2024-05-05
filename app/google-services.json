@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18652752175",
+    "project_id": "tellopia-80de0",
+    "storage_bucket": "tellopia-80de0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18652752175:android:5f7c2d05be4b25f1fe19da",
+        "android_client_info": {
+          "package_name": "com.xoksis.tellopia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2wXbqkUIvyCuHkxA85iCbcsPbqAJytPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
